@@ -1,3 +1,3 @@
-module "github.com/learning-go-book/package_example"
+module "github.com/4moradi/gopkg/"
 
 go 1.15
